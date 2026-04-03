@@ -1,0 +1,1 @@
+ESP32 connect ke Wi-Fi, kemudian anda host backend sendiri dan guna HTTPS. Arduino ESP32 ada dokumentasi/libraries untuk rangkaian, termasuk sokongan secure client, tapi ini lebih banyak kerja dan biasanya saya tak cadangkan untuk projek pertama.
