@@ -14,7 +14,9 @@ Logic: Active LOW (ON = LOW, OFF = HIGH)
 
 2. Required Components
 
+
 • ESP32 development board
+
 • 4-channel relay module
 • USB data cable
 • Arduino IDE
