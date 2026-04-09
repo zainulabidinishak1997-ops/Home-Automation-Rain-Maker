@@ -1,4 +1,4 @@
-#include <Arduino.h>          /// ZAINUL ABIDIN BIN ISHAK
+#include <Arduino.h>          
 #include "RMaker.h"
 #include "WiFi.h"
 #include "WiFiProv.h"
