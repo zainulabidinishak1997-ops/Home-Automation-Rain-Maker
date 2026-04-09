@@ -16,12 +16,20 @@ Logic: Active LOW (ON = LOW, OFF = HIGH)
 
 
 • ESP32 development board
+
 • 4-channel relay module
+
 • USB data cable
+
 • Arduino IDE
+
 • Smartphone with ESP RainMaker app
+
 • 2.4GHz Wi-Fi network
+
 • Jumper wires
+
+---
 
 3. Important Notes
 • GPIO12 and GPIO15 are strapping pins and may affect boot behavior
