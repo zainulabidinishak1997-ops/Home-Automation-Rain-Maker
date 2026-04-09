@@ -17,7 +17,16 @@ server.
 
 • No port forwarding or custom server required
 
-GPIO Mapping: Relay 1 ® GPIO12, Relay 2 ® GPIO13, Relay 3 ® GPIO14, Relay 4 ® GPIO15
+GPIO Mapping:
+
+Relay 1 ® GPIO12,
+
+Relay 2 ® GPIO13,
+
+Relay 3 ® GPIO14,
+
+Relay 4 ® GPIO15,
+
 Logic: Active LOW (ON = LOW, OFF = HIGH)
 
 ---
