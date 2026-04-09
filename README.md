@@ -10,6 +10,8 @@ server.
 GPIO Mapping: Relay 1 ® GPIO12, Relay 2 ® GPIO13, Relay 3 ® GPIO14, Relay 4 ® GPIO15
 Logic: Active LOW (ON = LOW, OFF = HIGH)
 
+---
+
 2. Required Components
 • ESP32 development board
 • 4-channel relay module
