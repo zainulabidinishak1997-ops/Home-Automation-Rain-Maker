@@ -51,14 +51,21 @@ Users can control devices (light & fan) through a mobile app, which sends comman
 3. Connect ESP32 to your computer
 4. Upload the code to ESP32
 5. Connect relay module to ESP32
-6. Configure RainMaker app and pair your device
-7. Start controlling your devices remotely
+    ESP PIN12 --> RELAY IN1
+    ESP PIN13 --> RELAY IN2
+    ESP PIN14 --> RELAY IN3
+    ESP PIN15 --> RELAY IN4
+    ESP GND   --> RELAY GND
+   
+7. Configure RainMaker app and pair your device
+8. Start controlling your devices remotely
 
 ---
 
-## 📷 Demo / Images
+## 📷 Sketch
 
-(Add your project images here)
+<img width="969" height="595" alt="image" src="https://github.com/user-attachments/assets/407148a4-8555-446d-a222-3f17d697b948" />
+
 
 ---
 
